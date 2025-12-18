@@ -1,9 +1,51 @@
-1. 일반용어
-- ASP(Application Service Provider)
-  소프트웨어를 패키지 형태로 판매하지 않고 일정한 요금을 받고 인터넷을 통해 임대해주는 서비스를 말함
-- CMS(Contents Management System)
-  e-비즈니스에 포함되는 모든 콘텐츠를 생성, 보관, 관리하는 일련의 작업과 과정을 일컫는 말로 기업 내에 존재하는 다양한 포맷의 문서, 이미지, 동영상, 소리 등을 제작, 출판, 관리하는 콘텐츠 시스템 솔루션을 말한다.
-- CP(Content Provider)
-  인터넷에서 서비스할 수 있는 콘텐츠를 생산해서 공급하는 기업 또는 개인을 말한다.
-- CRM(Customer Relationship Management)
-  고객 관계 관리의 약자로 기업이 고객과 관련된 내외부 자료를 분석-통합해 고객 중심 자원을 극대화하고 이를 토대로 고객 특성에 맞게 마케팅 활동을 계획-지원-평가하는 과정이다.
+1-2 일반 용어
+ASP (Application Service Provider)
+소프트웨어를 패키지 형태로 판매하지 않고 일정한 요금을 받고 인터넷을 통해 임대해주는 서비스 제공자.
+출처: 네이버 지식백과(시사상식사전)
+http://terms.naver.com/entry.nhn?docid=9826378&cid=60375&categoryId=60375
+
+CMS (Contents Management System)
+비즈니스에 필요한 콘텐츠를 생성, 보관, 관리하는 시스템.
+웹사이트에 포함되는 다양한 텍스트, 문서, 이미지 등의 콘텐츠를 효율적으로 관리하기 위한 일련의 작업과 과정을 의미한다.
+출처: 네이버 지식백과
+http://terms.naver.com/entry.nhn?docid=2064448&cid=50305&categoryId=50305
+
+CP (Content Provider)
+인터넷에서 서비스할 수 있는 콘텐츠를 생산·제공하는 기업 또는 개인을 말한다.
+출처: 네이버 지식백과
+http://terms.naver.com/entry.nhn?docid=20644488&cid=50305&categoryId=50305
+
+CRM (Customer Relationship Management)
+고객 관계 관리의 약자로, 기업이 고객과 관련된 내·외부 자료를 분석·통합하여
+고객 중심 자원을 극대화하고, 이를 토대로 고객 특성에 맞는 마케팅 활동을 계획·지원·평가하는 과정이다.
+출처: 네이버 지식백과(시사상식사전)
+http://terms.naver.com/entry.nhn?docid=744598&cid=43667&categoryId=43667
+
+ERP (Enterprise Resource Planning)
+전사적 자원 관리 시스템으로, 기업의 생산·물류·재무·회계·영업·구매·재고 등
+경영 전반의 자원을 통합적으로 관리하여 효율성을 극대화하기 위한 정보 시스템이다.
+출처: 네이버 지식백과
+
+KMS (Knowledge Management System)
+지식 관리 시스템으로, 조직 내 개인과 조직이 보유한 지식을 체계적으로 관리하고
+공유·활용하여 기업 경쟁력을 향상시키기 위한 정보 시스템이다.
+출처: 네이버 지식백과
+
+LMS (Learning Management System)
+학습 관리 시스템으로, 교육 콘텐츠의 관리, 학습 진행, 평가 등을
+온라인으로 지원하는 시스템.
+
+MCN (Multi Channel Network)
+유튜브 등 동영상 플랫폼에서 여러 콘텐츠 제작자를 묶어
+콘텐츠 기획, 제작, 유통, 광고, 수익 관리를 지원하는 네트워크.
+출처: 네이버 지식백과
+
+MIS (Management Information System)
+경영 정보 시스템으로, 기업 경영에 필요한 정보를 수집·처리·분석하여
+의사결정을 지원하는 시스템.
+
+NAS (Network Attached Storage)
+네트워크에 연결해 사용하는 저장 장치로, 여러 사용자가 데이터를 공유할 수 있다.
+
+O2O (Online to Offline)
+온라인과 오프라인을 연계해 상품·서비스를 제공하는 비즈니스 모델.
