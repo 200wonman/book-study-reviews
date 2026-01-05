@@ -8,6 +8,7 @@
 
 ## 📚 읽은 책
 - [팔리는 프로덕트](https://github.com/200wonman/book-study-reviews/tree/main/%ED%8C%94%EB%A6%AC%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8): **프로덕트 성공 요소**와 **핵심 전략**에 대한 통찰
+- [처음부터 다시 배우는 웹기획](https://github.com/200wonman/book-study-reviews/tree/main/%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%8B%A4%EC%8B%9C%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9B%B9-%EA%B8%B0%ED%9A%8D): 웹기획의 기본적인 요소를 리마인드 
 
 ## 📅 히스토리
 - **2025년 3월**: 레포지토리 생성
